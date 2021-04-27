@@ -11,4 +11,4 @@ is_contact: true
 
 1. [LinkedIn](#)
 2. [Twitter](#)
-3. [Instagram+](#)
+3. [Instagram](#)
