@@ -6,40 +6,53 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am Abishek V of M.Sc. Data Science at Coimbatore Institute of Technology, Coimbatore.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+First and Foremost, I love Data.
+Handling even rawest of data, procuring a happy headache in pre-processing it,
+Spawning inferences and insights by visualization,
+Decoding patterns of deadly data makes me feel so ecstatic.
+Delving Data connects me to the nuances and walks me through the realm of the domain specific data. 
 
-## Research Interest
+## Experience 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+### Crayon Data India Pvt Ltd - Data Science Intern May 2020 - September 2020
 
-## Publications
+* Built a Language Translation API using MarianMTto translate client data precisely and to scale the model for handling large datasets and generating befitting translations swiftly. 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### CITIZN Inc  - Artificial Intelligence Research Intern  October 2020 - March 2021)
+* Gamification of social media users using Reputation AI (RAI) which is CITIZN’s primary mechanism for engaging users on the platform to validate America-in-one room concepts in Democracy in Canada.
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Areas of Interest
 
-Here is a table
+> Natural Language Processing, Computer Vision, Applied Machine Learning, Data Analytics 
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
+## Projects
+
+###Neural Voice Imitation [Website] (#) 
+An encrypted Text-to-Speech (TTS) service that develops a realistic synthesized neural voice of yours with just 10 seconds of audio recording (as training data) by imitating the vocal traits of a person and can be iterated for almost any text.
+
+###IndiCoV - Covid19 Tracker [Website] (https://abishekv.shinyapps.io/Indi-CoV/) 
+A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic spread using covid19india api data and a bot, Dunchie which uses Google’s Speech Recognition to give updates on Covid cases in India.
+
+### Ad Mender - Detection and Removal of Advertisements in Cricket 
+Using Mask R-CNN for replacement of advertisements by superimposition on the boundaries of the ground and sideline screens in cricket matches 
+
+
+## Deeds
+
+* Collaborated with covid19india.org developers in providing insights and improving the visualizations in their dashboard. 
+* Finished 2nd Shaastra Sports Analytics and Tech Summit conducted by Global Sports Commerce at IIT Madras. 
+* Finals at Crayon Data Analytics Hackathon at IIT Madras.  
+* Digital Assistance, Space Club of CIT and Active contributor of Quiz and Literary Club of CIT.
+
 
 ---
 
-Here is a blockquote
+## Reach Me
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+[Linkedin] (https://www.linkedin.com/in/abishek-v)
+[Github] (https://github.com/Abishek-V)
+[Medium] (https://v-abi.medium.com/)
