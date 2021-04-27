@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 Hi! I am **Abishek V**, pursuing my **Masters in Data Science** from Coimbatore Institute of Technology, Coimbatore.
 
