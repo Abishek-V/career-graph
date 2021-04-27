@@ -9,6 +9,6 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](#https://www.linkedin.com/in/abishek-v)
+1. [LinkedIn](https://www.linkedin.com/in/abishek-v)
 2. [Twitter](#)
 3. [Instagram](#)
