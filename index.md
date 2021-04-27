@@ -12,9 +12,9 @@ First and Foremost, I love Data.
 Handling even rawest of data, procuring a happy headache in pre-processing it,
 Spawning inferences and insights by visualization,
 Decoding patterns of deadly data makes me feel so ecstatic.
-Delving data, connects me to the nuances and walks me through the realm of the domain specific data. 
+Delving data, connects me to the nuances and walks me through the realm of the domain specific data.
 
-</br>
+<br>
 
 ## Experience 
 
@@ -26,7 +26,7 @@ Delving data, connects me to the nuances and walks me through the realm of the d
 
 * Gamification of social media users using Reputation AI (RAI) which is CITIZN’s primary mechanism for engaging users on the platform to validate America-in-one room concepts in Democracy in Canada.
 
-</br>
+<br>
 
 ## Projects
 
@@ -37,9 +37,9 @@ An encrypted Text-to-Speech (TTS) service that develops a realistic synthesized 
 A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic spread using covid19india api data and a bot, Dunchie which uses Google’s Speech Recognition to give updates on Covid cases in India.
 
 ### Ad Mender - Detection and Removal of Advertisements in Cricket 
-Using Mask R-CNN for replacement of advertisements by superimposition on the boundaries of the ground and sideline screens in cricket matches 
+Using Mask R-CNN for replacement of advertisements by superimposition on the boundaries of the ground and sideline screens in cricket matches. 
 
-</br>
+<br>
 
 ## Areas of Interest
 
@@ -51,7 +51,7 @@ Using Mask R-CNN for replacement of advertisements by superimposition on the bou
 * Finished 2nd Shaastra Sports Analytics and Tech Summit conducted by Global Sports Commerce at IIT Madras. 
 * Finals at Crayon Data Analytics Hackathon at IIT Madras.  
 * Digital Assistance, Space Club of CIT and Active contributor of Quiz and Literary Club of CIT.
-</br>
+<br>
 
 ---
 
