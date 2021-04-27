@@ -16,7 +16,7 @@ Delving Data connects me to the nuances and walks me through the realm of the do
 
 ## Experience 
 
-###Crayon Data India Pvt Ltd - (Data Science Intern)
+### Crayon Data India Pvt Ltd - (Data Science Intern)
 
 * Built a Language Translation API using MarianMTto translate client data precisely and to scale the model for handling large datasets and generating befitting translations swiftly. 
 
