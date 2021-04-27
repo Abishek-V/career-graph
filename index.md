@@ -35,10 +35,10 @@ Delving Data connects me to the nuances and walks me through the realm of the do
 
 ## Projects
 
-### Neural Voice Imitation [Website](#) 
+### Neural Voice Imitation [[Demo](#)] 
 An encrypted Text-to-Speech (TTS) service that develops a realistic synthesized neural voice of yours with just 10 seconds of audio recording (as training data) by imitating the vocal traits of a person and can be iterated for almost any text.
 
-### IndiCoV - Covid19 Tracker [Website](https://abishekv.shinyapps.io/Indi-CoV/) 
+### IndiCoV - Covid19 Tracker [[Demo](https://abishekv.shinyapps.io/Indi-CoV/)]
 A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic spread using covid19india api data and a bot, Dunchie which uses Google’s Speech Recognition to give updates on Covid cases in India.
 
 ### Ad Mender - Detection and Removal of Advertisements in Cricket 
