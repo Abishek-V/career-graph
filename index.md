@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<!---<img class="profile-picture" src="sherlock.jpg">---!>
+<!---<img class="profile-picture" src="sherlock.jpg">
 
 Hi! I am **Abishek V**, pursuing my **Masters in Data Science** from Coimbatore Institute of Technology, Coimbatore.
 
