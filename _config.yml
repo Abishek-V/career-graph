@@ -1,6 +1,6 @@
-title: 
+title: Abishek V
 url: "https://abishek-v.github.io"
-baseurl: "/researcher"
+baseurl: "/know-me"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/know-me"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
