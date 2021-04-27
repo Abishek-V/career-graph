@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am Abishek V of M.Sc. Data Science at Coimbatore Institute of Technology, Coimbatore.
+Hi! I am ***Abishek V***, pursuing my **Masters in Data Science** from Coimbatore Institute of Technology, Coimbatore.
 
 First and Foremost, I love Data.
 Handling even rawest of data, procuring a happy headache in pre-processing it,
