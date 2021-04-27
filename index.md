@@ -29,7 +29,7 @@ Delving Data connects me to the nuances and walks me through the realm of the do
 
 ## Areas of Interest
 
-> #####Natural Language Processing, Computer Vision, Applied Machine Learning
+> ##### Natural Language Processing, Computer Vision, Applied Machine Learning
 
 
 
