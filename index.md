@@ -11,9 +11,10 @@ Hi! I am **Abishek V**, pursuing my **Masters in Data Science** from Coimbatore 
 First and Foremost, I love Data.
 Handling even rawest of data, procuring a happy headache in pre-processing it,
 Spawning inferences and insights by visualization,
-Decoding patterns of deadly data makes me feel so ecstatic.<br/>
-Delving Data connects me to the nuances and walks me through the realm of the domain specific data. 
+Decoding patterns of deadly data makes me feel so ecstatic.
+Delving data, connects me to the nuances and walks me through the realm of the domain specific data. 
 
+</br>
 
 ## Experience 
 
@@ -25,13 +26,7 @@ Delving Data connects me to the nuances and walks me through the realm of the do
 
 * Gamification of social media users using Reputation AI (RAI) which is CITIZN’s primary mechanism for engaging users on the platform to validate America-in-one room concepts in Democracy in Canada.
 
-
-
-## Areas of Interest
-
-> ##### Natural Language Processing, Speech Processing, Computer Vision, Applied Machine Learning
-
-
+</br>
 
 ## Projects
 
@@ -44,7 +39,11 @@ A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic 
 ### Ad Mender - Detection and Removal of Advertisements in Cricket 
 Using Mask R-CNN for replacement of advertisements by superimposition on the boundaries of the ground and sideline screens in cricket matches 
 
+</br>
 
+## Areas of Interest
+
+> ##### Natural Language Processing, Speech Processing, Computer Vision, Applied Machine Learning
 
 ## Deeds
 
@@ -52,7 +51,7 @@ Using Mask R-CNN for replacement of advertisements by superimposition on the bou
 * Finished 2nd Shaastra Sports Analytics and Tech Summit conducted by Global Sports Commerce at IIT Madras. 
 * Finals at Crayon Data Analytics Hackathon at IIT Madras.  
 * Digital Assistance, Space Club of CIT and Active contributor of Quiz and Literary Club of CIT.
-
+</br>
 
 ---
 
