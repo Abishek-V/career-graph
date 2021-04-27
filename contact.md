@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [v.abishek99@gmail.](mailto:v.abishek99@gmail.com)
+* Email: [v.abishek99@gmail.com](mailto:v.abishek99@gmail.com)
 
 ---
 
