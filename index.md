@@ -10,6 +10,12 @@ Hi! I am **Abishek V**, pursuing my **Masters in Data Science** from Coimbatore 
 
 ## Experience 
 
+### IBM - (Intern - Machine Learning)
+
+* Working with Electronic Design Automation(EDA )team in India Systems Development Lab( ISDL)
+* Actively working in the cross section area of Machine Learning and Electronic Design Automation
+* ML Timing Triage- Discerning Timing root cause failures in IBM P Processor
+
 ### Crayon Data India Pvt Ltd - (Data Science Intern)
 
 * Built a Language Translation API using MarianMT to translate client data precisely and to scale the model for handling large datasets and generating befitting translations swiftly. 
@@ -18,19 +24,30 @@ Hi! I am **Abishek V**, pursuing my **Masters in Data Science** from Coimbatore 
 
 * Designed content strategies, dealt with Curating News Content, supported the team in building content moderation strategies
 
+<br>
 
 <br>
 
 ## Projects
 
+### YOUTUBE X-RAY [[Demo](https://share.streamlit.io/peguin03/youtube-x-ray/SearchApp.py)]
+Description: A Video Search technique which enables to search any frame within a video with a Natural Language Query semantically
+representing the description of the frame. With OpenAI’s CLIP, it searches any youtube video against any text and presents with top k frames
+related to the text. With Distill-Bert and Faiss Index, it searchs any specific topic within lectures in youtube and retrieves top k timestamps of
+the video related to the queried topic
+
 ### Neural Voice Imitation [[Demo](#)] 
-An encrypted Text-to-Speech (TTS) service that develops a realistic synthesized neural voice of yours with just 10 seconds of audio recording (as training data) by imitating the vocal traits of a person and can be iterated for almost any text.
+Description: An encrypted Text-to-Speech (TTS) service that develops a realistic synthesized neural voice of yours with just 10 seconds of audio recording (as training data) by imitating the vocal traits of a person and can be iterated for almost any text.
+
+## POWER CABLE DETECTION BY UNMANNED AERIAL VEHICLE
+Description: Extracting features that indicate the presence of power lines in Visible Light and Infrared images, using ResNet-50 as base, finetuned with Powerline Image Dataset to improve power line recognition rate significantly.
+
 
 ### IndiCoV - Covid19 Tracker [[Demo](https://abishekv.shinyapps.io/Indi-CoV/)]
-A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic spread using covid19india api data and a bot, Dunchie which uses Google’s Speech Recognition to give updates on Covid cases in India.
+Description: A Data Visualizations Dashboard for analysis and tracking the COVID-19 Pandemic spread using covid19india api data and a bot, Dunchie which uses Google’s Speech Recognition to give updates on Covid cases in India.
 
 ###  Whittle - Analytic Engine For Small-Scale Convenience Stores [[Demo](https://abishekv.shinyapps.io/Whittle/)]
-Whittle is a minimalist planning and prediction-based management software for small-scale stores to curate insights.
+Description: Whittle is a minimalist planning and prediction-based management software for small-scale stores to curate insights.
 
 <br>
 
